@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**jibranusman95/jibranusman95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jibran Usman, a passionate **Ruby on Rails** developer who loves to code and create amazing applications. I specialize in using a variety of tools and technologies, including **Apache Kafka**, **GraphQL**, **Docker**, **Elasticsearch**, **Sidekiq**, **Redis**, **RSpec**, **Capybara**, and **jQuery**, to build robust and scalable web applications.
 
-Here are some ideas to get you started:
+## 💻 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the technologies and tools I use frequently:
+
+- Ruby on Rails
+- Apache Kafka
+- GraphQL
+- Docker
+- Elasticsearch
+- Sidekiq
+- Redis
+- RSpec
+- Capybara
+- jQuery
+
+## 📈 Stats
+
+Here are some of my GitHub stats:
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibranusman95&show_icons=true&count_private=true&hide=stars&theme=dark)
+
+## 🔥 My Passion for Coding
+
+I love coding because it allows me to turn my ideas into reality. Whether it's building a new feature, optimizing an existing one, or creating a new application from scratch, I find coding to be both challenging and rewarding.
+
+Ruby on Rails is my preferred framework because it allows me to create web applications quickly and efficiently. I also enjoy working with other tools and technologies, like Apache Kafka for real-time message processing, GraphQL for efficient data retrieval, Docker for containerization, Elasticsearch for fast and flexible search, Sidekiq and Redis for background processing, and RSpec and Capybara for testing and integration.
+
+## 📬 Get in Touch
+
+If you'd like to chat about Ruby on Rails, coding, or anything else, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jibran-usman). I'm always up for a good conversation!
