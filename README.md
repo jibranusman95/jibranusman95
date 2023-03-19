@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Jibran Usman, a passionate **Ruby on Rails** developer who loves to code and create amazing applications. I specialize in using a variety of tools and technologies, including **Apache Kafka**, **GraphQL**, **Docker**, **Elasticsearch**, **Sidekiq**, **Redis**, **RSpec**, **Capybara**, and **jQuery**, to build robust and scalable web applications.
+I'm Jibran Usman, a passionate **Ruby on Rails** developer who loves to code and create amazing applications. I specialize in using a variety of tools and technologies to build robust and scalable web applications.
 
 
 ## 💻 Technologies & Tools
