@@ -18,13 +18,6 @@ Here are some of the technologies and tools I use frequently:
 - Capybara
 - jQuery
 
-
-## 📈 Stats
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jibranusman95&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jibran's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibranusman95&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
 ## 🔥 My Passion for Coding
 
 I love coding because it allows me to turn my ideas into reality. Whether it's building a new feature, optimizing an existing one, or creating a new application from scratch, I find coding to be both challenging and rewarding.
