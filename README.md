@@ -26,8 +26,7 @@ Ruby on Rails is my preferred framework because it allows me to create web appli
 
 ![Jibran's Stats](https://github-readme-stats.vercel.app/api?username=jibranusman95&theme=solarized-light&show_icons=true&hide_border=false&count_private=true)
 ![Jibran's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jibranusman95&theme=solarized-light&hide_border=false)
-![Jibran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jibranusman95&theme=solarized-light&show_icons=true&hide_border=false&layout=compact)
-
+<div align="center">![Jibran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jibranusman95&theme=solarized-light&show_icons=true&hide_border=false&layout=compact)</div>
 
 ## 📬 Get in Touch
 
