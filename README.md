@@ -24,7 +24,7 @@ I love coding because it allows me to turn my ideas into reality. Whether it's b
 
 Ruby on Rails is my preferred framework because it allows me to create web applications quickly and efficiently. I also enjoy working with other tools and technologies, like Apache Kafka for real-time message processing, GraphQL for efficient data retrieval, Docker for containerization, Elasticsearch for fast and flexible search, Sidekiq and Redis for background processing, and RSpec and Capybara for testing and integration.
 
-![Jibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibranusman95&hide=contribs,prs)
+![Jibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibranusman95)
 
 
 ## 📬 Get in Touch
