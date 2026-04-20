@@ -18,6 +18,8 @@ Here are some of the technologies and tools I use frequently:
 - Capybara
 - jQuery
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 ## 🔥 My Passion for Coding
 
 I love coding because it allows me to turn my ideas into reality. Whether it's building a new feature, optimizing an existing one, or creating a new application from scratch, I find coding to be both challenging and rewarding.
