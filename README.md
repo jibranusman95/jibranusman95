@@ -1,7 +1,14 @@
 # Hello, World! 👋
 
-I'm Jibran Usman, a passionate **Ruby on Rails** developer who loves to code and create amazing applications. I specialize in using a variety of tools and technologies to build robust and scalable web applications.
+I'm Jibran Usman, a **Ruby on Rails** developer who loves building robust, scalable web applications and shipping open source tools that solve real production problems.
 
+## 🔧 Open Source Gems
+
+| Gem | What it does | Downloads |
+|-----|-------------|-----------|
+| [**turbo_presence**](https://github.com/jibranusman95/turbo_presence) | Figma-style live cursors, avatar stacks, and typing indicators for Rails/Hotwire | ![](https://img.shields.io/gem/dt/turbo_presence?color=grey&label=) |
+| [**promptscrub**](https://github.com/jibranusman95/promptscrub) | Bidirectional PII redaction for LLM calls — strip sensitive data from prompts, rehydrate in responses | ![](https://img.shields.io/gem/dt/promptscrub?color=grey&label=) |
+| [**http_decoy**](https://github.com/jibranusman95/http_decoy) | A real Rack server that runs inside your RSpec tests — test HTTP contracts, not assumptions | ![](https://img.shields.io/gem/dt/http_decoy?color=grey&label=) |
 
 ## 💻 Technologies & Tools
 
@@ -16,7 +23,7 @@ Here are some of the technologies and tools I use frequently:
 - Redis
 - RSpec
 - Capybara
-- jQuery
+- Hotwire / Turbo / Stimulus
 
 ## 🔥 My Passion for Coding
 
