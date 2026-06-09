@@ -7,8 +7,11 @@ I'm Jibran Usman, a **Ruby on Rails** developer who loves building robust, scala
 | Gem | What it does | Downloads |
 |-----|-------------|-----------|
 | [**turbo_presence**](https://github.com/jibranusman95/turbo_presence) | Figma-style live cursors, avatar stacks, and typing indicators for Rails/Hotwire | ![](https://img.shields.io/gem/dt/turbo_presence?color=grey&label=) |
+| [**webhook_inbox**](https://github.com/jibranusman95/webhook_inbox) | Transactional inbox for Rails webhook receivers — deduplication, async processing, replay, dashboard | ![](https://img.shields.io/gem/dt/webhook_inbox?color=grey&label=) |
+| [**llm_cassette**](https://github.com/jibranusman95/llm_cassette) | VCR for LLMs — streaming-aware cassette recorder for OpenAI and Anthropic | ![](https://img.shields.io/gem/dt/llm_cassette?color=grey&label=) |
 | [**promptscrub**](https://github.com/jibranusman95/promptscrub) | Bidirectional PII redaction for LLM calls — strip sensitive data from prompts, rehydrate in responses | ![](https://img.shields.io/gem/dt/promptscrub?color=grey&label=) |
 | [**http_decoy**](https://github.com/jibranusman95/http_decoy) | A real Rack server that runs inside your RSpec tests — test HTTP contracts, not assumptions | ![](https://img.shields.io/gem/dt/http_decoy?color=grey&label=) |
+| [**agent_jail**](https://github.com/jibranusman95/agent_jail) | Fork-based sandbox for LLM tool calls — timeout, memory limit, and filesystem restrictions | ![](https://img.shields.io/gem/dt/agent_jail?color=grey&label=) |
 
 ## 💻 Technologies & Tools
 
