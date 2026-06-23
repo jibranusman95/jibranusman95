@@ -2,6 +2,8 @@
 
 I'm Jibran Usman, a **Ruby on Rails** developer who loves building robust, scalable web applications and shipping open source tools that solve real production problems.
 
+<!--
+
 ## 🔧 Open Source Gems
 
 | Gem | What it does | Downloads |
@@ -12,6 +14,8 @@ I'm Jibran Usman, a **Ruby on Rails** developer who loves building robust, scala
 | [**promptscrub**](https://github.com/jibranusman95/promptscrub) | Bidirectional PII redaction for LLM calls — strip sensitive data from prompts, rehydrate in responses | ![](https://img.shields.io/gem/dt/promptscrub?color=grey&label=) |
 | [**http_decoy**](https://github.com/jibranusman95/http_decoy) | A real Rack server that runs inside your RSpec tests — test HTTP contracts, not assumptions | ![](https://img.shields.io/gem/dt/http_decoy?color=grey&label=) |
 | [**agent_jail**](https://github.com/jibranusman95/agent_jail) | Fork-based sandbox for LLM tool calls — timeout, memory limit, and filesystem restrictions | ![](https://img.shields.io/gem/dt/agent_jail?color=grey&label=) |
+
+-->
 
 ## 💻 Technologies & Tools
 
